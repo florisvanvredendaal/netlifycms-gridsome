@@ -1,6 +1,6 @@
 # Netlify CMS template for Gridsome
 
-> A simple, hackable & minimalistic starter for Gridsome that uses Netlify CMS for content.
+> A simple, hackable & minimalistic starter for Gridsome that uses Netlify CMS for content...
 
 ## Features
 - Beautiful and simple design.
