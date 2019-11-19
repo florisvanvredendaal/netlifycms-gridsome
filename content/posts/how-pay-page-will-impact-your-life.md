@@ -1,6 +1,7 @@
 ---
 title: How pay.page will impact your life!
 date: 2019-11-17T10:50:28.819Z
+published: true
 tags:
   - company
 cover_image: /images/uploads/autoschade-claimen.jpg
