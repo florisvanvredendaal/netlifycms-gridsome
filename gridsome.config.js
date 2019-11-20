@@ -6,7 +6,7 @@
 
 module.exports = {
   siteName: 'pay.page blog',
-  siteDescription: 'Read quality content about the <a href="/tag/company/">pay.page company</a>, Mollie, payment methods, subscriptions and safety',
+  siteDescription: 'Read quality content about the pay.page company, Mollie, payment methods, subscriptions and safety',
 
   templates: {
     Post: '/:title',
