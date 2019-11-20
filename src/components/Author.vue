@@ -6,7 +6,7 @@
 		</h1>
 
 		<p class="author__intro">
-			A simple, hackable & minimalistic starter for Gridsome that uses Netlify CMS for content.
+			Read quality content about <a href="/tag/company">the pay.page company</a>, Mollie, payment methods, subscriptions and safety.
 		</p>
 
 		<p class="author__links">
